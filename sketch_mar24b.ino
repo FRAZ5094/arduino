@@ -1,4 +1,4 @@
-  int myPins[] = {2, 3, 4, 5};
+int myPins[] = {2, 3, 4, 5};
 int Freq=1;
 void setup() {
    for (int i=0;i < (sizeof(myPins) / sizeof(myPins[0]));i++){
